@@ -1,0 +1,1 @@
+# Branchynet-Early-Exit-Net-Resnet-pretraining-model-with-Imagenet-data
