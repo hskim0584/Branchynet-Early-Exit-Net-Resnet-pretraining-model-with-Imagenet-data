@@ -46,4 +46,5 @@ pip tqdm==4.66.2
 pip install torchvision==0.17.1
 pip install torchsummary==1.5.1
 ```
-
+## RUN
+python main.py
